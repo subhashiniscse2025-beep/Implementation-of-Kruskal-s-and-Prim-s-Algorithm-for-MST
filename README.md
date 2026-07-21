@@ -13,4 +13,4 @@ Kruskal's Algorithm, Prim's Algorithm.
 
 How to Run
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run APP.PY
